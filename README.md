@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewcross
 - 👀 I’m interested in tech solutions to sustainability issues, especially in the agriculture and energy sectors.
-- 🌱 I’m currently learning basic maths and kinematics for robotics.
+- 🌱 I’m currently following courses to explore data science and engineering.
 - 📫 How to reach me: https://www.linkedin.com/in/elliot-cross-a2b390174/
 - 📄 My CV: https://ewcross.github.io/CV/
 
